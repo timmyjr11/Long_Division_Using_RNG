@@ -1,3 +1,5 @@
+# Calls the python (the programming language that is being used) libary called "random" which is used to generate
+# random numbers
 import random
 
 # Creates lists that represent the numbers 0 - 9
