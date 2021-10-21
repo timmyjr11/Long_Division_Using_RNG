@@ -1,4 +1,4 @@
-# Calls the python (the programming language that is being used) libary called "random" which is used to generate
+# Calls the python (the programming language that is being used) library called "random" which is used to generate
 # random numbers
 import random
 
